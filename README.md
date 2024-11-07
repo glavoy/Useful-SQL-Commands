@@ -1,3 +1,14 @@
 # Useful-SQL-Commands
 
-Data Query Commands
+
+### Select Commands (Eric)
+
+
+### Update Commands (Eric)
+
+
+### Insert Commands (Alan)
+
+
+
+### Delete Commands (Alan)
