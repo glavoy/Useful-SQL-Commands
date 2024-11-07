@@ -14,3 +14,4 @@ insert into table MTG
 ## Delete commands (Alan)
 
 delete * from MTG
+geoff change
