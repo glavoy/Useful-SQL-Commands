@@ -9,5 +9,8 @@ update table set column1 = value1, column2 = value2 where condition;
 
 ## Insert commands (Alan)
 
+insert into table MTG
 
 ## Delete commands (Alan)
+
+delete * from MTG
